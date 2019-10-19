@@ -1,4 +1,4 @@
-## Welcome to My Senior Research Project Site
+# Welcome to My Senior Research Project Site
 
 You can visit [imdb](https://www.imdb.com/) to see the latest movies and search for movie tickets near you.
 
@@ -6,8 +6,8 @@ You can visit [imdb](https://www.imdb.com/) to see the latest movies and search 
 
 Visiting this [link](https://www.imdb.com/chart/boxoffice?ref_=nv_ch_cht) will take you to this week's box officed results
 
-```markdown
-# Box Office
+
+### Box Office
 
 **Week of 10/13/19**
 
@@ -16,7 +16,7 @@ Visiting this [link](https://www.imdb.com/chart/boxoffice?ref_=nv_ch_cht) will t
 3. Gemini Man
 4. Abominable
 5. Downton Abbey
-```
+
 
 ### Movie Tickets
 
