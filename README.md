@@ -24,4 +24,4 @@ You can search for movie theatres near you on imdb's [showtimes page](https://ww
 
 ### Movie Ratings
 
-To see critics and users favorite movies, check out [imdb ratings]https://www.imdb.com/chart/top?ref_=nv_mv_250).
+To see critics and users favorite movies, check out [imdb ratings](https://www.imdb.com/chart/top?ref_=nv_mv_250).
