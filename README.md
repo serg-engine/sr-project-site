@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to My Senior Research Project Site
 
-You can use the [editor on GitHub](https://github.com/serg-engine/sr-project-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can visit [imdb](https://www.imdb.com/) to see the latest movies and search for movie tickets near you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Box Office
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Visiting this [link](https://www.imdb.com/chart/boxoffice?ref_=nv_ch_cht) will take you to this week's box officed results
 
 ```markdown
-Syntax highlighted code block
+# Box Office
 
-# Header 1
-## Header 2
-### Header 3
+**Week of 10/13/19**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Joker
+2. The Addams Family
+3. Gemini Man
+4. Abominable
+5. Downton Abbey
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Movie Tickets
 
-### Jekyll Themes
+You can search for movie theatres near you on imdb's [showtimes page](https://www.imdb.com/showtimes/?ref_=nv_tp_sh_3).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/serg-engine/sr-project-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Movie Ratings
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To see critics and users favorite movies, check out [imdb ratings]https://www.imdb.com/chart/top?ref_=nv_mv_250).
